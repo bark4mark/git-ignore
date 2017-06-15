@@ -9,4 +9,4 @@ fabric.properties
 .classpath
 .project
 .settings
-
+.externalToolBuilders/
